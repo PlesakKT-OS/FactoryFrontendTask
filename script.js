@@ -6,7 +6,7 @@ let active = document.querySelector(".active");
 
 let images1 = document.querySelectorAll(".image1");
 let images2 = document.querySelectorAll(".image2");
-let sliderCounter = -1;
+let sliderCounter = 8;
 
 const nextButton = document.querySelector(".next");
 const previousButton = document.querySelector(".previous");
